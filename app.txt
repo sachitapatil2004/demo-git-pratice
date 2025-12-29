@@ -1,2 +1,1 @@
-main v1
-experiment v1
+print "This is sachita Patil"
